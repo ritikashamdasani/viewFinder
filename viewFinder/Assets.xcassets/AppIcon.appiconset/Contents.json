@@ -31,8 +31,9 @@
       "scale" : "3x"
     },
     {
-      "idiom" : "iphone",
       "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "rinGn4aRT.jpg",
       "scale" : "2x"
     },
     {
@@ -76,9 +77,8 @@
       "scale" : "1x"
     },
     {
-      "size" : "76x76",
       "idiom" : "ipad",
-      "filename" : "rinGn4aRT.jpg",
+      "size" : "76x76",
       "scale" : "2x"
     },
     {
